@@ -18,7 +18,7 @@ python -m venv shark_env
 source .shark_env/bin/activate
 pip install -r requirements.txt
 ```
-2. DOWNLOAD the file **v4_hawaii.tar.gz** from [models kaggle](https://www.kaggle.com/datasets/jeremyjer/sharkdetector) (~4GB)
+2. DOWNLOAD the file **v4_hawaii.tar.gz** from [models kaggle](https://www.kaggle.com/datasets/jeremyjer/sharkdetector?select=v4_hawaii) (~4GB)
 3. EXTRACT and MOVE your **models** to your cloned repository
 4. Run the Shark Detector on a test video 
 ```
